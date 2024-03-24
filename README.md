@@ -1,5 +1,5 @@
 # nosql-challenge
-(Note)In order to do this homework on web scraping and analyzing Mars weather data, I have used the activities in class of week 11 and sometimes get assistance from ChatGPT for debugging purposes.
+(Note) In order to do this homework on web scraping and analyzing Mars weather data, I have used the activities in class of week 12 and sometimes get assistance from ChatGPT for debugging purposes.
 
 **Instructions**
 
